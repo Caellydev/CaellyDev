@@ -44,10 +44,10 @@
 ## 🔗 Conecte-se comigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+  <a href="https://www.linkedin.com/in/carolina-nagibe-768937312/">
     <img src="https://img.shields.io/badge/LinkedIn-556B2F?style=for-the-badge&logo=linkedin&logoColor=EDE0D4" />
   </a>
-  <a href="mailto:SEU-EMAIL@email.com">
+  <a href="mailto:carol.9nagibe@gmail.com">
     <img src="https://img.shields.io/badge/Email-6F4E37?style=for-the-badge&logo=gmail&logoColor=EDE0D4" />
   </a>
 </p>
