@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caellydev&hide_border=true&background=1B2A1B&stroke=6B8E23&ring=8B5E34&fire=8B5E34&currStreakLabel=EDE0D4&sideLabels=EDE0D4&currStreakNum=EDE0D4&sideNums=EDE0D4&dates=6B8E23" />
+  <img src="https://streak-stats.demolab.com/?user=Caellydev&hide_border=true&background=1B2A1B&stroke=6B8E23&ring=8B5E34&fire=8B5E34&currStreakLabel=EDE0D4&sideLabels=EDE0D4&currStreakNum=EDE0D4&sideNums=EDE0D4&dates=6B8E23" />
 </p>
 
 <br>
