@@ -32,7 +32,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-nu-ashen-68.vercel.app/api?username=Caellydev&show_icons=true&hide_border=true&bg_color=1B2A1B&title_color=8B5E34&icon_color=6B8E23&text_color=EDE0D4" width="48%" />
-  <img src="https://github-readme-stats-nu-ashen-68.vercel.app/api/top-langs/?username=Caellydev&layout=compact&hide_border=true&bg_color=1B2A1B&title_color=8B5E34&text_color=EDE0D4" width="40%" />
+  <img src="https://github-readme-stats-nu-ashen-68.vercel.app/api/top-langs/?username=Caellydev&layout=compact&hide_border=true&bg_color=1B2A1B&title_color=8B5E34&text_color=EDE0D4&exclude_repo=appDay25" width="40%" />
 </p>
 
 <p align="center">
